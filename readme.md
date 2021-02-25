@@ -1,5 +1,7 @@
 # Notes
 
+> This repository has moved to [Fyne Labs](https://github.com/fynelabs/notes)
+
 A simple notes app demonstrating various Fyne features.
 All data is stored in your preference storage (which is platform dependent).
 
